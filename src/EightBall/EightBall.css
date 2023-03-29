@@ -1,0 +1,21 @@
+.App{
+    height: 700px;
+    background-image: url('../images/background-img.jpg');
+    background-size: cover;
+}
+
+.eight-ball-btn{
+    color: white;
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    font-size: 2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 0;
+    margin-top: 100px;
+}
+
+.eight-ball-btn:hover{
+    cursor: pointer;
+    border: 3px solid rgb(46, 42, 42);
+}
